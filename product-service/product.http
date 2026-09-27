@@ -1,0 +1,3 @@
+### delete product
+DELETE http://localhost:8081/api/products/1
+Authorization:  Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbl91c2VyIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzkwNDk1NzU4LCJleHAiOjE3OTA0OTkzNTh9.mLa3RSUn_8wGoIFRLLBaFhja4TFerMKx3axOpbZb_PQ
